@@ -3,7 +3,6 @@ import 'dart:async';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
 import 'package:untitled/models/note.dart';
-//import 'package:flutter_app/models/note.dart';
 
 class DatabaseHelper {
 
